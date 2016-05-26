@@ -8,7 +8,7 @@
         <!--View Controller-->
         <scene sceneID="uAA-Y0-Say">
             <objects>
-                <viewController id="7H3-Od-VfA" sceneMemberID="viewController">
+                <viewController id="7H3-Od-VfA" customClass="ViewController" customModule="Swift_weather" customModuleProvider="target" sceneMemberID="viewController">
                     <layoutGuides>
                         <viewControllerLayoutGuide type="top" id="HzD-17-xtU"/>
                         <viewControllerLayoutGuide type="bottom" id="1fb-Ti-ZOj"/>
